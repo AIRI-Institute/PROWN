@@ -20,12 +20,18 @@ Available settings:
 ## Citing.
 If you use this package in your publications or in other work, please cite it as follows:
 ```
-@misc{PROWN,
-      title={Probabilistically Robust Watermarking of Neural Networks}, 
-      author={Mikhail Pautov and Nikita Bogdanov and Stanislav Pyatkin and Oleg Rogov and Ivan Oseledets},
-      year={2024},
-      eprint={2401.08261},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR}
+@inproceedings{PROWN,
+  title     = {Probabilistically Robust Watermarking of Neural Networks},
+  author    = {Pautov, Mikhail and Bogdanov, Nikita and Pyatkin, Stanislav and Rogov, Oleg and Oseledets, Ivan},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {4778--4787},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/528},
+  url       = {https://doi.org/10.24963/ijcai.2024/528},
 }
 ```
